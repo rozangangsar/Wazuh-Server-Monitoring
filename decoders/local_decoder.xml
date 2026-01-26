@@ -1,9 +1,0 @@
-<decoder name="rkhunter">
-    <program_name>^rkhunter</program_name>
-</decoder>
-
-<decoder name="rkhunter-warning">
-    <parent>rkhunter</parent>
-    <regex>Warning: (\S+)</regex>
-    <order>extra_data</order>
-</decoder>
