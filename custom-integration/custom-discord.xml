@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ALERT_FILE=$1
-HOOK_URL="https://discord.com/api/webhooks/1463106734737457335/ME4G0WeOnX3wv-t9_8dUSAh8F7jabAyemA9jyTe0URPJqw5O8_p8K-hM>
+HOOK_URL="rahasia"
 
 if [ ! -f "$ALERT_FILE" ]; then
     exit 1
